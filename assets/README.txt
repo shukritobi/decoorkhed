@@ -1,0 +1,1 @@
+Image assets are used by the Decoorkhed website preview.
